@@ -1,0 +1,552 @@
+
+Raw token = WC(1)
+Token: WC(1)
+Raw token = User
+Token: USER
+Raw token = Commands
+Token: COMMANDS
+Raw token = WC(1)
+Token: WC(1)
+Raw token = NAME
+Token: NAME
+Raw token = wc
+Token: WC
+Raw token = -
+Token: -
+Raw token = print
+Token: PRINT
+Raw token = newline,
+Token: NEWLINE,
+Raw token = word,
+Token: WORD,
+Raw token = and
+Token: AND
+Raw token = byte
+Token: BYTE
+Raw token = counts
+Token: COUNTS
+Raw token = for
+Token: FOR
+Raw token = each
+Token: EACH
+Raw token = file
+Token: FILE
+Raw token = SYNOPSIS
+Token: SYNOPSIS
+Raw token = wc
+Token: WC
+Raw token = [OPTION]...
+Token: [OPTION]...
+Raw token = [FILE]...
+Token: [FILE]...
+Raw token = wc
+Token: WC
+Raw token = [OPTION]...
+Token: [OPTION]...
+Raw token = --files0-from=F
+Token: --FILES0-FROM=F
+Raw token = DESCRIPTION
+Token: DESCRIPTION
+Raw token = Print
+Token: PRINT
+Raw token = newline,
+Token: NEWLINE,
+Raw token = word,
+Token: WORD,
+Raw token = and
+Token: AND
+Raw token = byte
+Token: BYTE
+Raw token = counts
+Token: COUNTS
+Raw token = for
+Token: FOR
+Raw token = each
+Token: EACH
+Raw token = FILE,
+Token: FILE,
+Raw token = and
+Token: AND
+Raw token = a
+Token: A
+Raw token = total
+Token: TOTAL
+Raw token = line
+Token: LINE
+Raw token = if
+Token: IF
+Raw token = more
+Token: MORE
+Raw token = than
+Token: THAN
+Raw token = one
+Token: ONE
+Raw token = FILE
+Token: FILE
+Raw token = is
+Token: IS
+Raw token = specified.
+Token: SPECIFIED.
+Raw token = With
+Token: WITH
+Raw token = no
+Token: NO
+Raw token = FILE,
+Token: FILE,
+Raw token = or
+Token: OR
+Raw token = when
+Token: WHEN
+Raw token = FILE
+Token: FILE
+Raw token = is
+Token: IS
+Raw token = -,
+Token: -,
+Raw token = read
+Token: READ
+Raw token = standard
+Token: STANDARD
+Raw token = input.
+Token: INPUT.
+Raw token = A
+Token: A
+Raw token = word
+Token: WORD
+Raw token = is
+Token: IS
+Raw token = a
+Token: A
+Raw token = non-zero-length
+Token: NON-ZERO-LENGTH
+Raw token = sequence
+Token: SEQUENCE
+Raw token = of
+Token: OF
+Raw token = characters
+Token: CHARACTERS
+Raw token = delimited
+Token: DELIMITED
+Raw token = by
+Token: BY
+Raw token = white
+Token: WHITE
+Raw token = space.
+Token: SPACE.
+Raw token = The
+Token: THE
+Raw token = options
+Token: OPTIONS
+Raw token = below
+Token: BELOW
+Raw token = may
+Token: MAY
+Raw token = be
+Token: BE
+Raw token = used
+Token: USED
+Raw token = to
+Token: TO
+Raw token = select
+Token: SELECT
+Raw token = which
+Token: WHICH
+Raw token = counts
+Token: COUNTS
+Raw token = are
+Token: ARE
+Raw token = printed,
+Token: PRINTED,
+Raw token = always
+Token: ALWAYS
+Raw token = in
+Token: IN
+Raw token = the
+Token: THE
+Raw token = following
+Token: FOLLOWING
+Raw token = order:
+Token: ORDER:
+Raw token = newline,
+Token: NEWLINE,
+Raw token = word,
+Token: WORD,
+Raw token = character,
+Token: CHARACTER,
+Raw token = byte,
+Token: BYTE,
+Raw token = maximum
+Token: MAXIMUM
+Raw token = line
+Token: LINE
+Raw token = length.
+Token: LENGTH.
+Raw token = -c,
+Token: -C,
+Raw token = --bytes
+Token: --BYTES
+Raw token = print
+Token: PRINT
+Raw token = the
+Token: THE
+Raw token = byte
+Token: BYTE
+Raw token = counts
+Token: COUNTS
+Raw token = -m,
+Token: -M,
+Raw token = --chars
+Token: --CHARS
+Raw token = print
+Token: PRINT
+Raw token = the
+Token: THE
+Raw token = character
+Token: CHARACTER
+Raw token = counts
+Token: COUNTS
+Raw token = -l,
+Token: -L,
+Raw token = --lines
+Token: --LINES
+Raw token = print
+Token: PRINT
+Raw token = the
+Token: THE
+Raw token = newline
+Token: NEWLINE
+Raw token = counts
+Token: COUNTS
+Raw token = --files0-from=F
+Token: --FILES0-FROM=F
+Raw token = read
+Token: READ
+Raw token = input
+Token: INPUT
+Raw token = from
+Token: FROM
+Raw token = the
+Token: THE
+Raw token = files
+Token: FILES
+Raw token = specified
+Token: SPECIFIED
+Raw token = by
+Token: BY
+Raw token = NUL-terminated
+Token: NUL-TERMINATED
+Raw token = names
+Token: NAMES
+Raw token = in
+Token: IN
+Raw token = file
+Token: FILE
+Raw token = F;
+Token: F;
+Raw token = If
+Token: IF
+Raw token = F
+Token: F
+Raw token = is
+Token: IS
+Raw token = -
+Token: -
+Raw token = then
+Token: THEN
+Raw token = read
+Token: READ
+Raw token = names
+Token: NAMES
+Raw token = from
+Token: FROM
+Raw token = standard
+Token: STANDARD
+Raw token = input
+Token: INPUT
+Raw token = -L,
+Token: -L,
+Raw token = --max-line-length
+Token: --MAX-LINE-LENGTH
+Raw token = print
+Token: PRINT
+Raw token = the
+Token: THE
+Raw token = length
+Token: LENGTH
+Raw token = of
+Token: OF
+Raw token = the
+Token: THE
+Raw token = longest
+Token: LONGEST
+Raw token = line
+Token: LINE
+Raw token = -w,
+Token: -W,
+Raw token = --words
+Token: --WORDS
+Raw token = print
+Token: PRINT
+Raw token = the
+Token: THE
+Raw token = word
+Token: WORD
+Raw token = counts
+Token: COUNTS
+Raw token = --help
+Token: --HELP
+Raw token = display
+Token: DISPLAY
+Raw token = this
+Token: THIS
+Raw token = help
+Token: HELP
+Raw token = and
+Token: AND
+Raw token = exit
+Token: EXIT
+Raw token = --version
+Token: --VERSION
+Raw token = output
+Token: OUTPUT
+Raw token = version
+Token: VERSION
+Raw token = information
+Token: INFORMATION
+Raw token = and
+Token: AND
+Raw token = exit
+Token: EXIT
+Raw token = AUTHOR
+Token: AUTHOR
+Raw token = Written
+Token: WRITTEN
+Raw token = by
+Token: BY
+Raw token = Paul
+Token: PAUL
+Raw token = Rubin
+Token: RUBIN
+Raw token = and
+Token: AND
+Raw token = David
+Token: DAVID
+Raw token = MacKenzie.
+Token: MACKENZIE.
+Raw token = REPORTING
+Token: REPORTING
+Raw token = BUGS
+Token: BUGS
+Raw token = Report
+Token: REPORT
+Raw token = wc
+Token: WC
+Raw token = bugs
+Token: BUGS
+Raw token = to
+Token: TO
+Raw token = bug-coreutils@gnu.org
+Token: BUG-COREUTILS@GNU.ORG
+Raw token = GNU
+Token: GNU
+Raw token = coreutils
+Token: COREUTILS
+Raw token = home
+Token: HOME
+Raw token = page:
+Token: PAGE:
+Raw token = <http://www.gnu.org/software/coreutils/>
+Token: <HTTP://WWW.GNU.ORG/SOFTWARE/COREUTILS/>
+Raw token = General
+Token: GENERAL
+Raw token = help
+Token: HELP
+Raw token = using
+Token: USING
+Raw token = GNU
+Token: GNU
+Raw token = software:
+Token: SOFTWARE:
+Raw token = <http://www.gnu.org/gethelp/>
+Token: <HTTP://WWW.GNU.ORG/GETHELP/>
+Raw token = Report
+Token: REPORT
+Raw token = wc
+Token: WC
+Raw token = translation
+Token: TRANSLATION
+Raw token = bugs
+Token: BUGS
+Raw token = to
+Token: TO
+Raw token = <http://translationproject.org/team/>
+Token: <HTTP://TRANSLATIONPROJECT.ORG/TEAM/>
+Raw token = COPYRIGHT
+Token: COPYRIGHT
+Raw token = Copyright
+Token: COPYRIGHT
+Raw token = ©
+Token: ©
+Raw token = 2013
+Token: 2013
+Raw token = Free
+Token: FREE
+Raw token = Software
+Token: SOFTWARE
+Raw token = Foundation,
+Token: FOUNDATION,
+Raw token = Inc.
+Token: INC.
+Raw token = License
+Token: LICENSE
+Raw token = GPLv3+:
+Token: GPLV3+:
+Raw token = GNU
+Token: GNU
+Raw token = GPL
+Token: GPL
+Raw token = version
+Token: VERSION
+Raw token = 3
+Token: 3
+Raw token = or
+Token: OR
+Raw token = later
+Token: LATER
+Raw token = <http://gnu.org/licenses/gpl.html>.
+Token: <HTTP://GNU.ORG/LICENSES/GPL.HTML>.
+Raw token = This
+Token: THIS
+Raw token = is
+Token: IS
+Raw token = free
+Token: FREE
+Raw token = software:
+Token: SOFTWARE:
+Raw token = you
+Token: YOU
+Raw token = are
+Token: ARE
+Raw token = free
+Token: FREE
+Raw token = to
+Token: TO
+Raw token = change
+Token: CHANGE
+Raw token = and
+Token: AND
+Raw token = redistribute
+Token: REDISTRIBUTE
+Raw token = it.
+Token: IT.
+Raw token = There
+Token: THERE
+Raw token = is
+Token: IS
+Raw token = NO
+Token: NO
+Raw token = WARRANTY,
+Token: WARRANTY,
+Raw token = to
+Token: TO
+Raw token = the
+Token: THE
+Raw token = extent
+Token: EXTENT
+Raw token = permitted
+Token: PERMITTED
+Raw token = by
+Token: BY
+Raw token = law.
+Token: LAW.
+Raw token = SEE
+Token: SEE
+Raw token = ALSO
+Token: ALSO
+Raw token = The
+Token: THE
+Raw token = full
+Token: FULL
+Raw token = documentation
+Token: DOCUMENTATION
+Raw token = for
+Token: FOR
+Raw token = wc
+Token: WC
+Raw token = is
+Token: IS
+Raw token = maintained
+Token: MAINTAINED
+Raw token = as
+Token: AS
+Raw token = a
+Token: A
+Raw token = Texinfo
+Token: TEXINFO
+Raw token = manual.
+Token: MANUAL.
+Raw token = If
+Token: IF
+Raw token = the
+Token: THE
+Raw token = info
+Token: INFO
+Raw token = and
+Token: AND
+Raw token = wc
+Token: WC
+Raw token = programs
+Token: PROGRAMS
+Raw token = are
+Token: ARE
+Raw token = properly
+Token: PROPERLY
+Raw token = installed
+Token: INSTALLED
+Raw token = at
+Token: AT
+Raw token = your
+Token: YOUR
+Raw token = site,
+Token: SITE,
+Raw token = the
+Token: THE
+Raw token = command
+Token: COMMAND
+Raw token = info
+Token: INFO
+Raw token = coreutils
+Token: COREUTILS
+Raw token = 'wc
+Token: 'WC
+Raw token = invocation'
+Token: INVOCATION'
+Raw token = should
+Token: SHOULD
+Raw token = give
+Token: GIVE
+Raw token = you
+Token: YOU
+Raw token = access
+Token: ACCESS
+Raw token = to
+Token: TO
+Raw token = the
+Token: THE
+Raw token = complete
+Token: COMPLETE
+Raw token = manual.
+Token: MANUAL.
+Raw token = GNU
+Token: GNU
+Raw token = coreutils
+Token: COREUTILS
+Raw token = 8.21
+Token: 8.21
+Raw token = March
+Token: MARCH
+Raw token = 2016
+Token: 2016
+Raw token = WC(1)
+Token: WC(1)
+Total tokens found = 275
